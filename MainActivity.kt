@@ -20,6 +20,16 @@ class MainActivity : AppCompatActivity() {
         //println(answer) 
         // Output: The My Spectrum App is a mobile application...
 
+        //MLkit code
+        //val faqModel = FAQModel(this)
+        //val chatbot = MLKitChatbot(faqModel.faqs)
+
+        //val userQuery = "Who can use the My Spectrum App?"
+        //chatbot.getReply(userQuery) { response ->
+        //    println("Chatbot: $response")
+        //}
+
+
         val faqModel = FAQModel(this)
         tfidfSearch = TFIDFSearch(faqModel.faqs)
 
