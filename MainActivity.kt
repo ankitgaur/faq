@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //Lucene Code
         //val faqModel = FAQModel(this)
         //val luceneSearch = LuceneTFIDFSearch(faqModel.faqs)
 
@@ -29,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         //    println("Chatbot: $response")
         //}
 
-
+        //DL4j code
         val faqModel = FAQModel(this)
         tfidfSearch = TFIDFSearch(faqModel.faqs)
 
