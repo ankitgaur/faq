@@ -1,0 +1,440 @@
+{
+  "faqs": [
+    {
+      "question": "What is the My Spectrum App?",
+      "answer": "The My Spectrum App is a mobile application that allows Spectrum Mobile customers to manage accounts, activate devices, and access support resources."
+    },
+    {
+      "question": "Who can use the My Spectrum App for device activation?",
+      "answer": "Existing Spectrum Mobile customers adding a new line of service or activating a new device can use the app for activation."
+    },
+    {
+      "question": "Do I need to be a Spectrum Mobile customer to use the activation feature?",
+      "answer": "Yes, only Spectrum Mobile customers with an active account can use the activation feature."
+    },
+    {
+      "question": "Can I activate any device using the My Spectrum App?",
+      "answer": "Only Spectrum Mobile devices and eligible devices with eSIM support can be activated."
+    },
+    {
+      "question": "Is the My Spectrum App free?",
+      "answer": "Yes, the app is free to download and use for Spectrum customers."
+    },
+    {
+      "question": "What devices are compatible with the My Spectrum App?",
+      "answer": "Most Android and iOS devices that meet Spectrum’s system requirements are compatible."
+    },
+    {
+      "question": "Where can I download the My Spectrum App?",
+      "answer": "You can download the My Spectrum App from the Apple App Store or Google Play Store."
+    },
+    {
+      "question": "Can I activate a device if I don’t have WiFi?",
+      "answer": "You need WiFi to download the app and complete activation."
+    },
+    {
+      "question": "How do I start the activation process?",
+      "answer": "Open the app, sign in, and select Start Activation on the Home screen."
+    },
+    {
+      "question": "What happens if I don’t see the Start Activation option?",
+      "answer": "Ensure you're signed in with your primary Spectrum username. Contact support if the issue persists."
+    },
+    {
+      "question": "Can I pause the activation process and return later?",
+      "answer": "Yes, but it's recommended to complete it in one session to avoid issues."
+    },
+    {
+      "question": "How long does activation take?",
+      "answer": "Activation usually completes within minutes, though it may take longer depending on network conditions."
+    },
+    {
+      "question": "Do I need my Spectrum account details to activate a new device?",
+      "answer": "Yes, you’ll need your primary username and password."
+    },
+    {
+      "question": "What should I do if I forgot my Spectrum account password?",
+      "answer": "Use the “Forgot Password” link on the app to reset it."
+    },
+    {
+      "question": "Can I activate multiple devices at once?",
+      "answer": "No, you must activate each device individually."
+    },
+    {
+      "question": "What should I do if activation fails?",
+      "answer": "Restart your device, and try again. Contact support if the issue continues."
+    },
+    {
+      "question": "What is eSIM?",
+      "answer": "eSIM is an embedded SIM card that allows activation without a physical SIM."
+    },
+    {
+      "question": "How do I activate an eSIM on my device?",
+      "answer": "Follow the prompts in the My Spectrum App, then remove the physical SIM and restart your device before eSIM activation."
+    },
+    {
+      "question": "Is eSIM activation available on all devices?",
+      "answer": "eSIM activation is only available on compatible devices."
+    },
+    {
+      "question": "Can I switch back to a physical SIM after activating eSIM?",
+      "answer": "Yes, but you may need assistance from Spectrum support."
+    },
+    {
+      "question": "Do I need a SIM card to activate my device?",
+      "answer": "If your device supports physical SIMs, you’ll need to insert it before activation unless it’s pre-inserted."
+    },
+    {
+      "question": "How do I insert my Spectrum Mobile SIM card?",
+      "answer": "Use the SIM ejector tool included in your device packaging to insert the card."
+    },
+    {
+      "question": "Can I activate my device if I lose my SIM card?",
+      "answer": "Contact Spectrum Mobile to obtain a replacement SIM before attempting activation."
+    },
+    {
+      "question": "Do all devices come with pre-installed SIM cards?",
+      "answer": "No, some Android devices come with pre-inserted SIMs, but iPhones usually do not."
+    },
+    {
+      "question": "Can I use a SIM card from another provider with my Spectrum device?",
+      "answer": "Spectrum Mobile devices are usually locked to Spectrum’s network. Contact support for unlock requests."
+    },
+    {
+      "question": "Can I use my secondary Spectrum account to activate a device?",
+      "answer": "No, only the primary account can initiate device activation."
+    },
+    {
+      "question": "What if I don't have a Spectrum account username and password?",
+      "answer": "Create one during the activation process if you haven’t set it up."
+    },
+    {
+      "question": "Can I activate my device without signing into my account?",
+      "answer": "No, you must sign in to access the activation feature."
+    },
+    {
+      "question": "How do I set up my Spectrum username?",
+      "answer": "Visit Spectrum’s website or follow the prompts in the app during activation."
+    },
+    {
+      "question": "Can I use Face ID or fingerprint to log into the app?",
+      "answer": "Yes, you can enable biometric login in the app settings after initial setup."
+    },
+    {
+      "question": "Can I keep my current phone number when switching to Spectrum Mobile?",
+      "answer": "Yes, you can transfer your existing number."
+    },
+    {
+      "question": "What information do I need to transfer my number?",
+      "answer": "You’ll need your account holder name, address, account number, and account PIN from your previous carrier."
+    },
+    {
+      "question": "How long does the number transfer process take?",
+      "answer": "Transfers typically complete within 1-3 business days."
+    },
+    {
+      "question": "Can I cancel a number transfer request?",
+      "answer": "Contact Spectrum support to discuss canceling a transfer."
+    },
+    {
+      "question": "What is a Number Transfer PIN?",
+      "answer": "Some carriers, like Verizon, require a specific PIN to authorize a number transfer."
+    },
+    {
+      "question": "Why does my activation keep failing?",
+      "answer": "Ensure your device is connected to WiFi, and try restarting it before attempting activation again."
+    },
+    {
+      "question": "What should I do if my device isn't receiving a signal after activation?",
+      "answer": "Restart the device, then check for updates in device settings."
+    },
+    {
+      "question": "Why am I not receiving a confirmation email?",
+      "answer": "Check your spam or junk folder, and ensure your email is up-to-date in your Spectrum account."
+    },
+    {
+      "question": "Can I activate my device in-store if I encounter issues?",
+      "answer": "Yes, you can visit a Spectrum store for assistance."
+    },
+    {
+      "question": "How will I know when my activation is complete?",
+      "answer": "You’ll see a confirmation message in the app and receive an email."
+    },
+    {
+      "question": "Do I need to restart my device after activation?",
+      "answer": "Yes, a restart ensures your device connects to the Spectrum network."
+    },
+    {
+      "question": "What if I don’t receive a confirmation message?",
+      "answer": "Contact Spectrum support if you don’t receive confirmation after restarting your device."
+    },
+    {
+      "question": "Will my Spectrum services be active immediately after activation?",
+      "answer": "Yes, your services should be available as soon as activation completes."
+    },
+    {
+      "question": "Do I need to configure additional settings after activation?",
+      "answer": "Most devices configure automatically, but you can check device settings for options."
+    },
+    {
+      "question": "How do I set up WiFi calling?",
+      "answer": "Access WiFi calling settings in your device’s phone settings after activation."
+    },
+    {
+      "question": "Can I download apps on my new device before activation?",
+      "answer": "Yes, you can download apps as long as you’re connected to WiFi."
+    },
+    {
+      "question": "How do I update my device settings after activation?",
+      "answer": "Go to your device settings and check for updates."
+    },
+    {
+      "question": "Do I need a Spectrum ID to download the My Spectrum App?",
+      "answer": "No, the app is available to everyone, but you’ll need to sign in for activation."
+    },
+    {
+      "question": "Can I change my plan during activation?",
+      "answer": "No, but you can adjust your plan through the app after activation."
+    },
+    {
+      "question": "How do I check my data usage?",
+      "answer": "Use the app’s Usage section to monitor data usage."
+    },
+    {
+      "question": "What should I do if my device isn’t compatible with Spectrum Mobile?",
+      "answer": "If your device isn’t compatible, contact Spectrum Mobile to discuss available options."
+    },
+    {
+      "question": "How do I check if my device is eligible for Spectrum activation?",
+      "answer": "Visit the Spectrum Mobile website and use the eligibility checker, or contact support for assistance."
+    },
+    {
+      "question": "Why am I seeing a “SIM Not Supported” error?",
+      "answer": "Ensure your SIM card is inserted correctly, and restart your device. If issues persist, contact support."
+    },
+    {
+      "question": "Do I need to update my phone’s software before activation?",
+      "answer": "It’s recommended to update your device’s software to the latest version before activation."
+    },
+    {
+      "question": "Can I activate a Spectrum Mobile device outside the U.S.?",
+      "answer": "Device activation is currently available only within the U.S. territory."
+    },
+    {
+      "question": "Why does my device show “No Service” after activation?",
+      "answer": "Restart your device, verify that your SIM is correctly inserted, and check for carrier updates in settings."
+    },
+    {
+      "question": "What should I do if I’m unable to download the My Spectrum App?",
+      "answer": "Ensure your device has enough storage and meets system requirements. Try connecting to WiFi and re-downloading."
+    },
+    {
+      "question": "Will my device automatically connect to Spectrum's network after activation?",
+      "answer": "Yes, as long as it’s activated properly and within Spectrum’s network coverage area."
+    },
+    {
+      "question": "Why am I not receiving calls after activation?",
+      "answer": "Restart your device, and check for any call-blocking or “Do Not Disturb” settings that might be active."
+    },
+    {
+      "question": "What happens if I mistakenly activate my device on the wrong account?",
+      "answer": "Contact Spectrum Mobile support to correct the activation."
+    },
+    {
+      "question": "Is my data secure when using the My Spectrum App?",
+      "answer": "Yes, the app uses security protocols to protect your account and personal information."
+    },
+    {
+      "question": "What should I do if I suspect unauthorized access to my account?",
+      "answer": "Change your password immediately and contact Spectrum Mobile support."
+    },
+    {
+      "question": "Can I activate my device using a VPN?",
+      "answer": "It’s recommended to deactivate any VPNs while activating your device to ensure proper connectivity."
+    },
+    {
+      "question": "Is my account information stored on my device after activation?",
+      "answer": "No, Spectrum securely stores your account data, but you may stay signed in on the app."
+    },
+    {
+      "question": "What permissions does the My Spectrum App require?",
+      "answer": "The app may request access to location, contacts, and notifications for optimal functionality."
+    },
+    {
+      "question": "Can I activate a replacement device using the My Spectrum App?",
+      "answer": "Yes, the app supports activation of replacement devices purchased through Spectrum Mobile."
+    },
+    {
+      "question": "Do I need to deactivate my old device before activating a new one?",
+      "answer": "Your old device will automatically deactivate when the new device is activated on your line."
+    },
+    {
+      "question": "Can I reactivate my old device if I get a replacement?",
+      "answer": "Yes, as long as the device is compatible with Spectrum Mobile, you can reactivate it."
+    },
+    {
+      "question": "How do I transfer data from my old device to my new one?",
+      "answer": "Use a backup service, like iCloud or Google Drive, to transfer your data securely."
+    },
+    {
+      "question": "What if my device is damaged during activation?",
+      "answer": "Contact Spectrum Mobile support for assistance with device replacement options."
+    },
+    {
+      "question": "Can I transfer my number from a prepaid carrier?",
+      "answer": "Yes, number transfer is available from both prepaid and postpaid carriers, as long as account information is correct."
+    },
+    {
+      "question": "Why is my number transfer taking longer than expected?",
+      "answer": "Delays may occur due to incorrect account information or delays from the previous carrier."
+    },
+    {
+      "question": "Can I port my number to Spectrum Mobile from an international carrier?",
+      "answer": "Spectrum Mobile only supports number transfers within the U.S."
+    },
+    {
+      "question": "Can I transfer my number to Spectrum if I have an outstanding balance with my old carrier?",
+      "answer": "Some carriers require you to settle outstanding balances before authorizing a transfer."
+    },
+    {
+      "question": "Will I be charged for transferring my number?",
+      "answer": "Spectrum Mobile does not charge for number transfers, but your previous carrier may have fees."
+    },
+    {
+      "question": "When will I receive my first bill after activation?",
+      "answer": "Your first bill will be generated within a billing cycle after activation and sent by email or mail."
+    },
+    {
+      "question": "How can I set up autopay for my Spectrum Mobile account?",
+      "answer": "Use the My Spectrum App or Spectrum’s website to enable autopay for your account."
+    },
+    {
+      "question": "What should I do if my billing information is incorrect?",
+      "answer": "Contact Spectrum Mobile’s billing support to update or correct any errors."
+    },
+    {
+      "question": "How do I view my Spectrum Mobile bill?",
+      "answer": "Access billing details in the My Spectrum App under the Billing section."
+    },
+    {
+      "question": "Are there any additional fees for activating a new line?",
+      "answer": "Fees may apply depending on the plan and device. Refer to Spectrum Mobile’s billing page for details."
+    },
+    {
+      "question": "How do I configure my data settings after activation?",
+      "answer": "Data settings should configure automatically, but you can check under Mobile Data settings on your device."
+    },
+    {
+      "question": "Can I use mobile data while connected to WiFi?",
+      "answer": "Yes, but you may need to enable WiFi Assist or similar options in your settings."
+    },
+    {
+      "question": "How do I enable 5G on my Spectrum Mobile device?",
+      "answer": "If your device is 5G-capable, go to network settings and ensure 5G is selected as your preferred network type."
+    },
+    {
+      "question": "Can I control my data usage through the My Spectrum App?",
+      "answer": "Yes, the app shows data usage and can help manage limits on each line."
+    },
+    {
+      "question": "What if my mobile data doesn’t work after activation?",
+      "answer": "Check that mobile data is enabled in settings, and try restarting the device."
+    },
+    {
+      "question": "Does Spectrum Mobile offer international roaming?",
+      "answer": "Yes, but you may need to add an international roaming plan."
+    },
+    {
+      "question": "How do I activate international roaming?",
+      "answer": "Contact Spectrum Mobile support to enable international roaming on your account."
+    },
+    {
+      "question": "Are there additional fees for international roaming?",
+      "answer": "Yes, charges depend on the location and plan. Check Spectrum’s international rates for details."
+    },
+    {
+      "question": "Can I use my device’s mobile hotspot internationally?",
+      "answer": "Hotspot functionality may vary based on your plan and international location."
+    },
+    {
+      "question": "How do I disable roaming to avoid extra charges?",
+      "answer": "Go to network settings on your device and disable roaming."
+    },
+    {
+      "question": "How do I enable notifications for the My Spectrum App?",
+      "answer": "Enable notifications in your device’s settings for the My Spectrum App."
+    },
+    {
+      "question": "Can I use the My Spectrum App on multiple devices?",
+      "answer": "Yes, but you’ll need to sign in on each device individually."
+    },
+    {
+      "question": "How do I access customer support through the My Spectrum App?",
+      "answer": "Open the app, go to Support, and choose the Contact Us option."
+    },
+    {
+      "question": "What is the Device Help & Tutorials page in the app?",
+      "answer": "It provides device-specific instructions and guides for troubleshooting and setup."
+    },
+    {
+      "question": "Can I change my Spectrum Mobile plan in the My Spectrum App?",
+      "answer": "Yes, you can view and change plans under the Account Settings section."
+    },
+    {
+      "question": "Can I reset my password in the My Spectrum App?",
+      "answer": "Yes, use the “Forgot Password” link on the app login screen to reset it."
+    },
+    {
+      "question": "How do I enable dark mode for the My Spectrum App?",
+      "answer": "If your device supports dark mode, the app may switch automatically or can be set in device settings."
+    },
+    {
+      "question": "Can I customize my app’s notifications?",
+      "answer": "Yes, go to Settings within the app to customize which notifications you receive."
+    },
+    {
+      "question": "How do I log out of the My Spectrum App?",
+      "answer": "Open the app, go to Settings, and select Log Out."
+    },
+    {
+      "question": "What should I do if the My Spectrum App isn’t working?",
+      "answer": "Restart your device, check for app updates, or reinstall the app. Contact Spectrum support if issues persist."
+    },
+    {
+      "question": "What is the My Spectrum App used for?",
+      "answer": "The My Spectrum App allows existing Spectrum Mobile customers to activate new devices when a new line of service is added to their account. It can also be used for eSIM activation on eligible devices."
+    },
+    {
+      "question": "How do I activate my new device using the My Spectrum App?",
+      "answer": "Follow these steps to activate your device: \n 1) Turn on your device. \n 2) Connect to WiFi. \n 3) Download and open the My Spectrum App. \n 4)Sign in using your primary Spectrum username and password. \n 5) Select Start Activation on the Home screen. \n 6) Insert the SIM card if provided (some devices come with a SIM card pre-inserted). \n 7) Continue following prompts until you see \" Activation Complete. \" \n 8)Restart your device after activation."
+    },
+    {
+      "question": "Can I activate an eSIM through the My Spectrum App?",
+      "answer": "Yes, the My Spectrum App supports eSIM activation. If the new cellular plan will replace the plan on your physical SIM, remove the physical SIM and restart your device before activating your eSIM."
+    },
+    {
+      "question": "What information do I need to transfer my phone number?",
+      "answer": "To transfer your phone number, you’ll need: Account holder name, Account address, Account number, Account PIN, Note: Verizon Postpaid customers must request a Number Transfer PIN from Verizon."
+    },
+    {
+      "question": "Do I need to insert a SIM card to activate my device?",
+      "answer": "If you received a Spectrum Mobile SIM card, insert it using the SIM ejector tool. Some Spectrum Mobile Android devices may already have the SIM card pre-inserted."
+    },
+    {
+      "question": "Will I receive a confirmation when my device is activated?",
+      "answer": "Yes, you’ll receive a confirmation email once your device is successfully activated."
+    },
+    {
+      "question": "What if I have trouble activating my device?",
+      "answer": "If you encounter issues, you can contact Spectrum support or visit the Activation Troubleshooting page for assistance."
+    },
+    {
+      "question": "Where can I find additional device setup help?",
+      "answer": "For device setup assistance, visit Spectrum’s Device Help & Tutorials page."
+    },
+    {
+      "question": "What do I do if I don’t have a Spectrum username and password?",
+      "answer": "You can create a Spectrum username and password during the activation process. Instructions are provided in the app."
+    }
+  ]
+}
