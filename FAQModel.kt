@@ -12,7 +12,7 @@ class FAQModel(context: Context) {
     }
 
     private fun loadFAQs(context: Context): List<FAQ> {
-        val jsonString = readJSONFromAssets(context, "faqs.json")
+        val jsonString = readJSONFromAssets(context, "faq.json")
         val jsonObject = JSONObject(jsonString)
         val faqArray = jsonObject.getJSONArray("faqs")
 
