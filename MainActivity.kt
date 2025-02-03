@@ -12,8 +12,17 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //val faqModel = FAQModel(this)
+        //val luceneSearch = LuceneTFIDFSearch(faqModel.faqs)
+
+        //val query = "What is the My Spectrum App?"
+        //val answer = luceneSearch.search(query)
+        //println(answer) 
+        // Output: The My Spectrum App is a mobile application...
+
         val faqModel = FAQModel(this)
         tfidfSearch = TFIDFSearch(faqModel.faqs)
+
 
         val editTextQuery = findViewById<EditText>(R.id.editTextQuery)
         val buttonSearch = findViewById<Button>(R.id.buttonSearch)
